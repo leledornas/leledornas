@@ -1,69 +1,98 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f5b8d0&height=120&section=header&fontColor=0e0c0f"/>
+
 <div align="center">
 
-# olá, eu sou a Letícia 👋
-
-*Estudante de Ciência da Computação · CESAR School · Recife, PE*
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=32&pause=1000&color=F5B8D0&center=true&vCenter=true&width=600&lines=olá%2C+eu+sou+a+Letícia+%E2%9C%A6;Computer+Science+%40+CESAR+School;de+AutoCAD+ao+código+%3A)" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### // quem sou eu
+```python
+class Leticia:
+    nome     = "Letícia Dornas de Araújo"
+    idade    = 18
+    cidade   = "Recife, PE 🌵"
+    curso    = "Ciência da Computação @ CESAR School"
 
-Comecei minha trajetória na infraestrutura urbana e fui encontrando na programação uma forma mais poderosa de resolver problemas. Hoje estudo Ciência da Computação e busco criar soluções que unam lógica e design.
+    interesses = [
+        "desenvolvimento web",
+        "design de interfaces",
+        "Python e automação",
+        "projetos urbanos com tecnologia"
+    ]
 
-Tenho 18 anos, sou de Recife e acredito que tecnologia bem feita começa com código limpo e intenção clara.
+    contato = {
+        "email"    : "letaraujo0108@gmail.com",
+        "linkedin" : "linkedin.com/in/letíciadornas",
+        "portfolio": "leledornas.github.io/meu-portfolio"
+    }
 
----
-
-### // áreas de interesse
-
-- Desenvolvimento Web (HTML · CSS · JavaScript)
-- Python e automação
-- Design de interfaces
-- Infraestrutura e projetos urbanos com tecnologia
-
----
-
-### // tecnologias
-
-![HTML5](https://img.shields.io/badge/HTML5-f5b8d0?style=flat-square&logoColor=0e0c0f&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-fae89a?style=flat-square&logoColor=0e0c0f&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-f5b8d0?style=flat-square&logoColor=0e0c0f&logo=javascript)
-![Python](https://img.shields.io/badge/Python-fae89a?style=flat-square&logoColor=0e0c0f&logo=python)
-![AutoCAD](https://img.shields.io/badge/AutoCAD%20Civil%203D-f5b8d0?style=flat-square&logoColor=0e0c0f&logo=autodesk)
-
----
-
-### // projetos em destaque
-
-| projeto | descrição | link |
-|---|---|---|
-| 🌐 **Portfólio** | Site pessoal com HTML, CSS e JS | [ver site](https://leledornas.github.io/meu-portfolio/) |
-| 🌿 **Whispering Garden** | Jogo pixel art desenvolvido no Bitsy | [itch.io](https://leticiadornas.itch.io/whispering-garden) |
-| 🏋️ **FitPlanner** | Sistema de planejamento fitness em Python | [repositório](https://github.com/leledornas/fitplanner) |
-
----
-
-### // formação
-
-```
-2026 — atual   Ciência da Computação · CESAR School
-2023 — 2025    Técnico em Saneamento Ambiental · IFPE
+    def bio(self):
+        return "comecei na infraestrutura urbana e cheguei até o código."
 ```
 
 ---
 
-### // contato
+### toolbox `{ o que uso }`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-letíciadornas-f5b8d0?style=flat-square&logo=linkedin&logoColor=0e0c0f)](https://www.linkedin.com/in/letíciadornas/)
-[![Gmail](https://img.shields.io/badge/Gmail-letaraujo0108@gmail.com-fae89a?style=flat-square&logo=gmail&logoColor=0e0c0f)](mailto:letaraujo0108@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-leledornas.github.io-f5b8d0?style=flat-square&logo=githubpages&logoColor=0e0c0f)](https://leledornas.github.io/meu-portfolio/)
+![HTML5](https://img.shields.io/badge/-HTML5-0e0c0f?style=flat-square&logo=html5&logoColor=f5b8d0)
+![CSS3](https://img.shields.io/badge/-CSS3-0e0c0f?style=flat-square&logo=css3&logoColor=fae89a)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0e0c0f?style=flat-square&logo=javascript&logoColor=f5b8d0)
+![Python](https://img.shields.io/badge/-Python-0e0c0f?style=flat-square&logo=python&logoColor=fae89a)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD%20Civil%203D-0e0c0f?style=flat-square&logo=autodesk&logoColor=f5b8d0)
+![Git](https://img.shields.io/badge/-Git-0e0c0f?style=flat-square&logo=git&logoColor=fae89a)
+
+---
+
+### projetos `{ o que construí }`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🌐 portfólio pessoal</h4>
+      <p>Site construído do zero com HTML, CSS e JS. Design escuro com tipografia expressiva e animações suaves.</p>
+      <a href="https://leledornas.github.io/meu-portfolio/">→ ver site</a>
+    </td>
+    <td width="50%">
+      <h4>🌿 whispering garden</h4>
+      <p>Jogo pixel art com foco narrativo, desenvolvido na plataforma Bitsy. Exploração e ambientação.</p>
+      <a href="https://leticiadornas.itch.io/whispering-garden">→ jogar</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🏋️ fitplanner</h4>
+      <p>Sistema de planejamento fitness em Python para organizar treinos e acompanhar metas.</p>
+      <a href="https://github.com/leledornas/fitplanner">→ repositório</a>
+    </td>
+    <td width="50%">
+      <h4>✦ em construção</h4>
+      <p>Sempre tem algo novo chegando.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### formação `{ de onde vim }`
+
+```
+✦ 2026 — atual   Ciência da Computação · CESAR School
+✦ 2025 — 2026    Estagiária · Altys Engenharia (AutoCAD Civil 3D)
+✦ 2023 — 2025    Técnico em Saneamento Ambiental · IFPE
+```
 
 ---
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e0c0f?style=flat-square&logo=linkedin&logoColor=f5b8d0)](https://www.linkedin.com/in/letíciadornas/)
+[![Gmail](https://img.shields.io/badge/-Gmail-0e0c0f?style=flat-square&logo=gmail&logoColor=fae89a)](mailto:letaraujo0108@gmail.com)
+[![Portfólio](https://img.shields.io/badge/-portfólio-0e0c0f?style=flat-square&logo=githubpages&logoColor=f5b8d0)](https://leledornas.github.io/meu-portfolio/)
 
 *desenvolvido com ♥ e código*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fae89a&height=80&section=footer"/>
