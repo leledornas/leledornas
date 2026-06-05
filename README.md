@@ -1,4 +1,3 @@
----
 ```python
 class Leticia:
     nome     = "Letícia Dornas de Araújo"
