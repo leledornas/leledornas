@@ -1,27 +1,26 @@
-
 ---
 
 ```python
-class Leticia:
-    nome     = "Letícia Dornas de Araújo"
-    idade    = 18
+class Eduardo:
+    nome     = "Eduardo Henrique"
     cidade   = "Recife, PE 🌵"
-    curso    = "Ciência da Computação @ CESAR School"
+    curso    = "Análise e Desenvolvimento de Sistemas @ CESAR School"
+    formacao = "Técnico em Multimídia · ETE Ginásio Pernambuco"
 
     interesses = [
-        "desenvolvimento web",
-        "design de interfaces",
-        "python",
+        "front-end development",
+        "ui/ux design",
+        "design systems",
     ]
 
     contato = {
-        "email"    : "letaraujo0108@gmail.com",
-        "linkedin" : "linkedin.com/in/letíciadornas",
-        "portfolio": "leledornas.github.io/meu-portfolio"
+        "linkedin" : "linkedin.com/in/duduhnrq",
+        "portfolio": "...",
+        "curriculo": "..."
     }
 
     def bio(self):
-        return "interesse em desenvolvimento web e soluções que conectam tecnologia com pessoas. :)"
+        return "artista visual virado dev — gosto de construir coisas que são funcionais e bonitas ao mesmo tempo. :)"
 ```
 
 ---
@@ -31,9 +30,11 @@ class Leticia:
 ![HTML5](https://img.shields.io/badge/-HTML5-0e0c0f?style=flat-square&logo=html5&logoColor=f5b8d0)
 ![CSS3](https://img.shields.io/badge/-CSS3-0e0c0f?style=flat-square&logo=css3&logoColor=fae89a)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0e0c0f?style=flat-square&logo=javascript&logoColor=f5b8d0)
-![Python](https://img.shields.io/badge/-Python-0e0c0f?style=flat-square&logo=python&logoColor=fae89a)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD%20Civil%203D-0e0c0f?style=flat-square&logo=autodesk&logoColor=f5b8d0)
-![Git](https://img.shields.io/badge/-Git-0e0c0f?style=flat-square&logo=git&logoColor=fae89a)
+![React](https://img.shields.io/badge/-React-0e0c0f?style=flat-square&logo=react&logoColor=f5b8d0)
+![Next.js](https://img.shields.io/badge/-Next.js-0e0c0f?style=flat-square&logo=nextdotjs&logoColor=fae89a)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-0e0c0f?style=flat-square&logo=tailwindcss&logoColor=f5b8d0)
+![Figma](https://img.shields.io/badge/-Figma-0e0c0f?style=flat-square&logo=figma&logoColor=fae89a)
+![Git](https://img.shields.io/badge/-Git-0e0c0f?style=flat-square&logo=git&logoColor=f5b8d0)
 
 ---
 
@@ -42,17 +43,17 @@ class Leticia:
 <table>
   <tr>
     <td width="50%">
-      <h4>🌐 portfólio pessoal</h4>
-      <p>Site construído do zero com HTML, CSS e JS. Design escuro com tipografia expressiva e animações suaves.</p>
-      <a href="https://leledornas.github.io/meu-portfolio/">→ ver site</a>
+      <h4>🎨 portfólio pessoal</h4>
+      <p>Site pessoal construído com foco em design expressivo e experiência visual. Tipografia forte, animações suaves e identidade própria.</p>
+      <a href="#">→ ver site</a>
+    </td>
+    <td width="50%">
+      <h4>🏋️ fitplanner</h4>
+      <p>Sistema de planejamento fitness desenvolvido em grupo para organizar treinos e acompanhar metas.</p>
+      <a href="#">→ repositório</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>🏋️ fitplanner</h4>
-      <p>Sistema de planejamento fitness em Python para organizar treinos e acompanhar metas.</p>
-      <a href="https://github.com/leledornas/fitplanner">→ repositório</a>
-    </td>
     <td width="50%">
       <h4>✦ em construção</h4>
       <p>Sempre tem algo novo chegando.</p>
@@ -65,18 +66,17 @@ class Leticia:
 ### formação `{ de onde vim }`
 
 ```
-✦ 2026 — atual   Ciência da Computação · CESAR School
-✦ 2025 — 2026    Estagiária · Altys Engenharia (AutoCAD Civil 3D)
-✦ 2023 — 2025    Técnico em Saneamento Ambiental · IFPE
+✦ 2024 — atual   Análise e Desenvolvimento de Sistemas · CESAR School
+✦ 2022 — 2024    Técnico em Multimídia · ETE Ginásio Pernambuco
 ```
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e0c0f?style=flat-square&logo=linkedin&logoColor=f5b8d0)](https://www.linkedin.com/in/letíciadornas/)
-[![Gmail](https://img.shields.io/badge/-Gmail-0e0c0f?style=flat-square&logo=gmail&logoColor=fae89a)](mailto:letaraujo0108@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-portfólio-0e0c0f?style=flat-square&logo=githubpages&logoColor=f5b8d0)](https://leledornas.github.io/meu-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e0c0f?style=flat-square&logo=linkedin&logoColor=f5b8d0)](https://linkedin.com/in/duduhnrq)
+[![Portfólio](https://img.shields.io/badge/-portfólio-0e0c0f?style=flat-square&logo=githubpages&logoColor=fae89a)](#)
+[![Currículo](https://img.shields.io/badge/-currículo-0e0c0f?style=flat-square&logo=googledrive&logoColor=f5b8d0)](#)
 
 *desenvolvido com ♥ e código*
 
