@@ -69,8 +69,6 @@ class Leticia:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e0c0f?style=flat-square&logo=linkedin&logoColor=f5b8d0)](www.linkedin.com/in/letíciadornas)
-[![Portfólio](https://img.shields.io/badge/-portfólio-0e0c0f?style=flat-square&logo=githubpages&logoColor=fae89a)](https://leledornas.github.io/meu-portfolio/)
 [![Currículo](https://img.shields.io/badge/-currículo-0e0c0f?style=flat-square&logo=googledrive&logoColor=f5b8d0)](https://leledornas.github.io/meu-portfolio/curr%C3%ADculo/Let%C3%ADcia%20Dornas%20de%20Ara%C3%BAjo.png)
 
 *desenvolvido com ♥ e código*
