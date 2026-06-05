@@ -1,26 +1,26 @@
 ---
 
 ```python
-class Eduardo:
-    nome     = "Eduardo Henrique"
+class Leticia:
+    nome     = "Letícia Dornas de Araújo"
+    idade    = 18
     cidade   = "Recife, PE 🌵"
-    curso    = "Análise e Desenvolvimento de Sistemas @ CESAR School"
-    formacao = "Técnico em Multimídia · ETE Ginásio Pernambuco"
+    curso    = "Ciência da Computação @ CESAR School"
 
     interesses = [
-        "front-end development",
-        "ui/ux design",
-        "design systems",
+        "desenvolvimento web",
+        "design de interfaces",
+        "python",
     ]
 
     contato = {
-        "linkedin" : "linkedin.com/in/duduhnrq",
-        "portfolio": "...",
-        "curriculo": "..."
+        "email"    : "letaraujo0108@gmail.com",
+        "linkedin" : "linkedin.com/in/letíciadornas",
+        "portfolio": "leledornas.github.io/meu-portfolio"
     }
 
     def bio(self):
-        return "artista visual virado dev — gosto de construir coisas que são funcionais e bonitas ao mesmo tempo. :)"
+        return "interesse em desenvolvimento web e soluções que conectam tecnologia com pessoas. :)"
 ```
 
 ---
@@ -30,12 +30,9 @@ class Eduardo:
 ![HTML5](https://img.shields.io/badge/-HTML5-0e0c0f?style=flat-square&logo=html5&logoColor=f5b8d0)
 ![CSS3](https://img.shields.io/badge/-CSS3-0e0c0f?style=flat-square&logo=css3&logoColor=fae89a)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0e0c0f?style=flat-square&logo=javascript&logoColor=f5b8d0)
-![React](https://img.shields.io/badge/-React-0e0c0f?style=flat-square&logo=react&logoColor=f5b8d0)
-![Next.js](https://img.shields.io/badge/-Next.js-0e0c0f?style=flat-square&logo=nextdotjs&logoColor=fae89a)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-0e0c0f?style=flat-square&logo=tailwindcss&logoColor=f5b8d0)
-![Figma](https://img.shields.io/badge/-Figma-0e0c0f?style=flat-square&logo=figma&logoColor=fae89a)
-![Git](https://img.shields.io/badge/-Git-0e0c0f?style=flat-square&logo=git&logoColor=f5b8d0)
-
+![Python](https://img.shields.io/badge/-Python-0e0c0f?style=flat-square&logo=python&logoColor=fae89a)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD%20Civil%203D-0e0c0f?style=flat-square&logo=autodesk&logoColor=f5b8d0)
+![Git](https://img.shields.io/badge/-Git-0e0c0f?style=flat-square&logo=git&logoColor=fae89a)
 ---
 
 ### projetos `{ o que construí }`
@@ -45,12 +42,12 @@ class Eduardo:
     <td width="50%">
       <h4>🎨 portfólio pessoal</h4>
       <p>Site pessoal construído com foco em design expressivo e experiência visual. Tipografia forte, animações suaves e identidade própria.</p>
-      <a href="#">→ ver site</a>
+      <a href="https://leledornas.github.io/meu-portfolio/">→ ver site</a>
     </td>
     <td width="50%">
       <h4>🏋️ fitplanner</h4>
       <p>Sistema de planejamento fitness desenvolvido em grupo para organizar treinos e acompanhar metas.</p>
-      <a href="#">→ repositório</a>
+      <a href="https://github.com/leledornas/fitplanner">→ repositório</a>
     </td>
   </tr>
   <tr>
@@ -66,17 +63,18 @@ class Eduardo:
 ### formação `{ de onde vim }`
 
 ```
-✦ 2024 — atual   Análise e Desenvolvimento de Sistemas · CESAR School
-✦ 2022 — 2024    Técnico em Multimídia · ETE Ginásio Pernambuco
+✦ 2026 — atual   Ciência da Computação · CESAR School
+✦ 2025 — 2026    Estagiária · Altys Engenharia (AutoCAD Civil 3D)
+✦ 2023 — 2025    Técnico em Saneamento Ambiental · IFPE
 ```
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e0c0f?style=flat-square&logo=linkedin&logoColor=f5b8d0)](https://linkedin.com/in/duduhnrq)
-[![Portfólio](https://img.shields.io/badge/-portfólio-0e0c0f?style=flat-square&logo=githubpages&logoColor=fae89a)](#)
-[![Currículo](https://img.shields.io/badge/-currículo-0e0c0f?style=flat-square&logo=googledrive&logoColor=f5b8d0)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e0c0f?style=flat-square&logo=linkedin&logoColor=f5b8d0)](www.linkedin.com/in/letíciadornas)
+[![Portfólio](https://img.shields.io/badge/-portfólio-0e0c0f?style=flat-square&logo=githubpages&logoColor=fae89a)](https://leledornas.github.io/meu-portfolio/)
+[![Currículo](https://img.shields.io/badge/-currículo-0e0c0f?style=flat-square&logo=googledrive&logoColor=f5b8d0)](https://leledornas.github.io/meu-portfolio/curr%C3%ADculo/Let%C3%ADcia%20Dornas%20de%20Ara%C3%BAjo.png)
 
 *desenvolvido com ♥ e código*
 
