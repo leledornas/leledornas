@@ -46,11 +46,6 @@ class Leticia:
       <p>Site construído do zero com HTML, CSS e JS. Design escuro com tipografia expressiva e animações suaves.</p>
       <a href="https://leledornas.github.io/meu-portfolio/">→ ver site</a>
     </td>
-    <td width="50%">
-      <h4>🌿 whispering garden</h4>
-      <p>Jogo pixel art com foco narrativo, desenvolvido na plataforma Bitsy. Exploração e ambientação.</p>
-      <a href="https://leticiadornas.itch.io/whispering-garden">→ jogar</a>
-    </td>
   </tr>
   <tr>
     <td width="50%">
