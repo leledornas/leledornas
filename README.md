@@ -1,5 +1,4 @@
 ---
-
 ```python
 class Leticia:
     nome     = "Letícia Dornas de Araújo"
@@ -22,13 +21,12 @@ class Leticia:
     def bio(self):
         return "interesse em desenvolvimento web e soluções que conectam tecnologia com pessoas. :)"
 ```
-
 ---
 
 ### toolbox `{ o que uso }`
 
 ![HTML5](https://img.shields.io/badge/-HTML5-0e0c0f?style=flat-square&logo=html5&logoColor=f5b8d0)
-![CSS3](https://img.shields.io/badge/-CSS3-0e0c0f?style=flat-square&logo=css3&logoColor=fae89a)
+![CSS](https://img.shields.io/badge/-CSS3-0e0c0f?style=flat-square&logo=css3&logoColor=fae89a)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0e0c0f?style=flat-square&logo=javascript&logoColor=f5b8d0)
 ![Python](https://img.shields.io/badge/-Python-0e0c0f?style=flat-square&logo=python&logoColor=fae89a)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD%20Civil%203D-0e0c0f?style=flat-square&logo=autodesk&logoColor=f5b8d0)
